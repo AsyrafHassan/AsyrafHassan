@@ -1,61 +1,56 @@
-<h1 align="center">Hai 👋, Saya Muhammad Asyraf bin Hassan</h1>
-<h3 align="center">🎓 Pelajar Data Engineering di Universiti Teknologi Malaysia (UTM) 🎓</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-UTM-800000?style=for-the-badge&logo=education&logoColor=white" alt="UTM Badge" />
-  <img src="https://img.shields.io/badge/Field-Data_Engineering-00599C?style=for-the-badge&logo=database&logoColor=white" alt="Data Engineering Badge" />
-</p>
+# Hi, I'm Muhammad Asyraf bin Hassan 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800000&center=true&vcenter=true&width=500&lines=Pelajar+Data+Engineering+%40+UTM;Building+Data+Pipelines+%26+ETL;Mempelajari+Big+Data+%26+Cloud+Technologies" alt="Typing SVG" />
-</p>
+**First-year Data Engineering student @ Universiti Teknologi Malaysia (UTM)**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asyraf%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asyraf-hassan-099a29437/)
+[![Email](https://img.shields.io/badge/Email-asyraf--07%40graduate.utm.my-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyraf-07@graduate.utm.my)
 
-### 🎓 Mengenai Saya
-
-- 🏫 **Pendidikan:** Ijazah Sarjana Muda Sains Komputer (Kejuruteraan Data) di **Universiti Teknologi Malaysia (UTM)**.
-- 🔭 **Fokus Utama:** Mereka bentuk seni bina data, proses **ETL/ELT**, *data warehousing*, dan aliran data *real-time*.
-- 🌱 **Sedang Mempelajari:** SQL tingkat tinggi, Python data pipeline, Apache Spark, dan asas teknologi Cloud.
-- 💬 **Tanya Saya Tentang:** Pengurusan pangkalan data (Database), pembersihan data (Data Cleaning), atau aktiviti di UTM!
-- 📫 **Hubungi Saya:** 
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/asyraf-hassan-099a29437/?isSelfProfile=true])
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailanda@example.com)
+</div>
 
 ---
 
-### 🛠️ Alatan & Teknologi Data Engineering (*Tech Stack*)
+## 🎓 About Me
 
-#### 🐍 Bahasa Pengaturcaraan & Pangkalan Data
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+- 🏫 Studying **Science Computer (Data Engineering)** at **Universiti Teknologi Malaysia (UTM)**
+- 🌱 Currently in my **first year**, building a strong foundation in programming, data and problem solving
+- 📊 Interested in **data engineering, databases, data analysis and software development**
+- 🔭 Working on small projects and exercises to practise what I learn in class
+- 🤝 Open to learning from others, collaborating on projects and making new connections
 
-#### ⚡ Pemprosesan Data & Alatan (*Data Pipeline & Tools*)
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
+## 🛠️ Tech Stack & Learning Path
+
+> I'm still learning, so this list will keep growing as I go.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Currently exploring:** Python • SQL & databases • Data structures • Data analysis
+
+## 🎯 Goals
+
+- Build a solid foundation in **data engineering** (data pipelines, databases, ETL)
+- Create and share projects on GitHub regularly
+- Grow my skills through coursework, self-study and hands-on practice
+
+## 📌 Projects
+
+Projects will be pinned here as I build them. Stay tuned! 🚀
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [Asyraf Hassan](https://www.linkedin.com/in/asyraf-hassan-099a29437/)
+- 📧 Email: [asyraf-07@graduate.utm.my](mailto:asyraf-07@graduate.utm.my)
 
 ---
 
-### 📊 Statistik GitHub
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsyrafHassan&show_icons=true&theme=maroon_night&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyrafHassan&layout=compact&theme=maroon_night"/>
-</p>
+*"Every expert was once a beginner."* ✨
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsyrafHassan&color=800000&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
