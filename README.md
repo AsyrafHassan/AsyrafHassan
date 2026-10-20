@@ -1,56 +1,104 @@
+<!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-# Hi, I'm Muhammad Asyraf bin Hassan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Asyraf%20bin%20Hassan&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Data%20Engineering%20Student%20%7C%20Universiti%20Teknologi%20Malaysia&descSize=16&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 
-**First-year Data Engineering student @ Universiti Teknologi Malaysia (UTM)**
+<!-- Animated typing line -->
+<a href="https://www.linkedin.com/in/asyraf-hassan-099a29437/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=First-Year+Student+%40+UTM;Science+Computer+(Data+Engineering);Learning.+Building.+Growing." alt="Typing animation" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asyraf%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asyraf-hassan-099a29437/)
-[![Email](https://img.shields.io/badge/Email-asyraf--07%40graduate.utm.my-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyraf-07@graduate.utm.my)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asyraf-hassan-099a29437/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyraf-07@graduate.utm.my)
+[![UTM](https://img.shields.io/badge/UTM-Year%201-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.utm.my)
 
 </div>
 
----
+<br/>
 
-## 🎓 About Me
+## 👨‍🎓 About Me
 
-- 🏫 Studying **Science Computer (Data Engineering)** at **Universiti Teknologi Malaysia (UTM)**
-- 🌱 Currently in my **first year**, building a strong foundation in programming, data and problem solving
-- 📊 Interested in **data engineering, databases, data analysis and software development**
-- 🔭 Working on small projects and exercises to practise what I learn in class
-- 🤝 Open to learning from others, collaborating on projects and making new connections
+I'm a **first-year student at Universiti Teknologi Malaysia (UTM)**, studying **Science Computer (Data Engineering)**. I'm building a strong foundation in programming, databases and data thinking, and I enjoy turning what I learn in class into small, practical projects.
 
-## 🛠️ Tech Stack & Learning Path
+| | |
+|---|---|
+| 🎓 **Studying** | Science Computer (Data Engineering), UTM |
+| 📅 **Year** | First year |
+| 🔭 **Interested in** | Data engineering, databases, data analysis, software development |
+| 🌱 **Currently learning** | Python, SQL, data structures |
+| 🤝 **Open to** | Collaboration, study groups, and new connections |
 
-> I'm still learning, so this list will keep growing as I go.
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🛠️ Tech Stack
 
-**Currently exploring:** Python • SQL & databases • Data structures • Data analysis
+> Still growing. This list expands as I learn.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux&theme=dark" alt="Tech stack icons" />
+
+</div>
+
+<br/>
+
+## 🧭 Learning Roadmap
+
+```text
+ Now         ──►  Python · SQL · Git & GitHub · Data Structures
+ Next        ──►  Data Analysis · Pandas · Database Design
+ Later       ──►  ETL Pipelines · Cloud Data Tools · Big Data
+```
+
+<br/>
 
 ## 🎯 Goals
 
-- Build a solid foundation in **data engineering** (data pipelines, databases, ETL)
-- Create and share projects on GitHub regularly
-- Grow my skills through coursework, self-study and hands-on practice
+- 🧱 Build a solid base in **data engineering** (databases, pipelines, ETL)
+- 📂 Publish projects on GitHub regularly
+- 📈 Improve steadily through coursework, self-study and hands-on practice
+
+<br/>
 
 ## 📌 Projects
 
-Projects will be pinned here as I build them. Stay tuned! 🚀
+> 🚧 My first projects are on the way. They'll be pinned on my profile as soon as they're ready.
+
+<br/>
+
+## 📊 GitHub Stats
+
+
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AsyrafHassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2DD4BF&icon_color=2DD4BF" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyrafHassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2DD4BF" alt="Top languages" />
+
+</div>
+
+<br/>
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Asyraf Hassan](https://www.linkedin.com/in/asyraf-hassan-099a29437/)
-- 📧 Email: [asyraf-07@graduate.utm.my](mailto:asyraf-07@graduate.utm.my)
+<div align="center">
 
----
+| Platform | Link |
+|:---:|:---:|
+| 💼 **LinkedIn** | [Asyraf Hassan](https://www.linkedin.com/in/asyraf-hassan-099a29437/) |
+| 📧 **Email** | [asyraf-07@graduate.utm.my](mailto:asyraf-07@graduate.utm.my) |
 
+</div>
+
+<br/>
+
+<!-- ===== FOOTER ===== -->
 <div align="center">
 
 *"Every expert was once a beginner."* ✨
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="Footer" width="100%"/>
 
+</div>
