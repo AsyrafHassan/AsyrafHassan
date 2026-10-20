@@ -20,7 +20,7 @@
 - 💬 **Tanya Saya Tentang:** Pengurusan pangkalan data (Database), pembersihan data (Data Cleaning), atau aktiviti di UTM!
 - 📫 **Hubungi Saya:** 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username-anda](https://www.linkedin.com/in/asyraf-hassan-099a29437/?isSelfProfile=true))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/asyraf-hassan-099a29437/?isSelfProfile=true])
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailanda@example.com)
 
 ---
